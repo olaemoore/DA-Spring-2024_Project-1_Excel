@@ -1,3 +1,1 @@
-Data Analysis Project of Employee Salary data in Excel.
-
-Data source: Data provided by instructor.
+Projects completed during data analyst cohort taught by Carolina Softtech in Charlotte, NC
